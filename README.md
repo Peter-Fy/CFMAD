@@ -1,6 +1,6 @@
 # CFMAD
 
-The implement of our paper "[Counterfactual Debating with Preset Stances for Hallucination Elimination of LLMs](https://arxiv.org/abs/2406.11514)" (COLING 2025).
+The implementation of our paper "[Counterfactual Debating with Preset Stances for Hallucination Elimination of LLMs](https://arxiv.org/abs/2406.11514)" (COLING 2025).
 
 ## Introduction
 
